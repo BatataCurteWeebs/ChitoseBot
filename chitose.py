@@ -21,7 +21,7 @@ import youtube_dl
 #Prefixos e Token
 bot = commands.Bot(command_prefix="c!")
 client = discord.ext.commands.Bot(command_prefix = "c!")
-TOKEN = 'NzIxMzUwMTAwNTEyOTMxODgx.XuTP2w.7T2bPREC_B71AlTVBomTrbmLdVI'
+TOKEN = ''
 
 
 
